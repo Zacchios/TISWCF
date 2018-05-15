@@ -1,0 +1,9 @@
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\obj\Debug\RESTHosting.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\bin\Debug\Hosting.exe
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\bin\Debug\Hosting.pdb
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\bin\Debug\Microsoft.Owin.dll
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\bin\Debug\Owin.dll
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\bin\Debug\Microsoft.Owin.xml
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\obj\Debug\Hosting.exe
+C:\Users\Pierre\Documents\TFE\WCF\TISWCF\Hosting\obj\Debug\Hosting.pdb
